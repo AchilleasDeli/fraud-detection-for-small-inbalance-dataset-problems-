@@ -1,5 +1,5 @@
 
-# 🧠 Fraud Detection on Limited Data: A Classifier Reality Check
+#  Fraud Detection on Limited Data: A Classifier Reality Check
 
 ## Overview
 
